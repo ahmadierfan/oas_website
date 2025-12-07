@@ -8,7 +8,7 @@
     "generate": "nuxt generate",
     "preview": "nuxt preview",
     "postinstall": "nuxt prepare",
-    "deploy": "PORT=4666 pm2 start npm --name noec -- start"
+    "deploy": "PORT=4666 pm2 start npm --name oas -- start"
   },
   "dependencies": {
     "@tailwindcss/vite": "^4.1.17",
