@@ -8,6 +8,7 @@
     "generate": "nuxt generate",
     "preview": "nuxt preview",
     "postinstall": "nuxt prepare",
+    "start": "nuxt start",
     "deploy": "PORT=4666 pm2 start npm --name oas -- start"
   },
   "dependencies": {
