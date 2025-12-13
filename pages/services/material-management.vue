@@ -1,7 +1,7 @@
 <template>
     <div class="min-h-screen bg-gradient-to-br from-slate-900 via-blue-900 to-slate-800 pt-20">
         <!-- Hero Section -->
-        <section class="relative h-[60vh] flex items-center justify-center bg-fixed bg-cover bg-center"
+        <section class="relative mt-28 h-[60vh] flex items-center justify-center bg-fixed bg-cover bg-center"
             style="background-image: url('/images/11.jpg')">
             <div class="max-w-7xl mx-auto">
                 <div class="text-center mb-16 p-4 rounded-2xl" data-aos="fade-down" data-aos-duration="1500">
