@@ -7,14 +7,12 @@
                 <img src="/images/home/backfree.jpg" class="w-full h-full object-cover" />
             </div>
 
-            <!-- هواپیما -->
             <div class="absolute bottom-10 left-1/2 z-10 mb-28 transition-all duration-[20000ms] ease-in-out" :class="animationForward
                 ? 'transform scale-[1.3] -translate-x-1/2 translate-y-24'
                 : 'transform scale-100 -translate-x-1/2 translate-y-0'">
                 <img src="/images/home/airplanshadow.png" class="max-w-none w-[600px]" />
             </div>
 
-            <!-- متن شیشه‌ای -->
             <div class="absolute z-15 transition-all  duration-1500 top-70"
                 :class="showGlass ? 'opacity-100 scale-100' : 'opacity-0 scale-95'">
                 <div
@@ -26,7 +24,7 @@
                         <h1 class="text-4xl md:text-6xl font-bold mb-6 text-white drop-shadow-2xl leading-tight ">
                             <span class="typing-text">{{ displayedTitle }}</span>
                         </h1>
-                        <div class="text-xl md:text-3xl text-white bg-opacity-20 font-light">
+                        <div class="hidden md:block text-xl md:text-3xl text-white bg-opacity-20 font-light">
                             <div class=" rounded-3xl px-4 py-2">{{ subtitle }}</div>
                         </div>
                     </div>
