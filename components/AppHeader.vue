@@ -6,8 +6,8 @@
             <div class="flex justify-between items-center">
                 <!-- Logo -->
                 <div class="flex items-center space-x-3">
-                    <div class="rounded-full bg-brand-primary px-8 py-1 my-0 flex items-center justify-center">
-                        <img src="/images/logo-trans.png" alt="ORION Aviation" class="w-10" />
+                    <div class="rounded-full  px-8 py-1 my-0 flex items-center justify-center">
+                        <img src="/images/logo-orion.png" alt="ORION Aviation" class="w-22" />
                     </div>
                 </div>
 

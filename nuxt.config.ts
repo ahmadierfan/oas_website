@@ -17,7 +17,7 @@ export default defineNuxtConfig({
   app: {
     head: {
       link: [
-        { rel: "icon", type: "image/png", href: "/casfavicon.ico" },
+        { rel: "icon", type: "image/png", href: "/orion-favicon.ico" },
       ]
     }
   }

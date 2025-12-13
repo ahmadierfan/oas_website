@@ -6,8 +6,8 @@
             <div class="grid grid-cols-1 md:grid-cols-4 gap-8">
                 <!-- Company Info -->
                 <div data-aos="fade-up">
-                    <div class="flex items-center space-x-2 mb-4">
-                        <img class="w-24" src="/images/logo-trans.png" />
+                    <div class="flex bg-white rounded-2xl text-center justify-center items-center space-x-2 mb-4">
+                        <img class="w-28" src="/images/logo-orion.png" />
                     </div>
                     <p class="text-gray-400 mb-4">
                         Your trusted partner in aviation technical management, delivering expert solutions for the
